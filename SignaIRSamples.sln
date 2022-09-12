@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignaIRSamples", "SignaIRSamples\SignaIRSamples.csproj", "{519BD402-A8B4-4628-9922-5CCE6FE8492A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519BD402-A8B4-4628-9922-5CCE6FE8492A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519BD402-A8B4-4628-9922-5CCE6FE8492A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519BD402-A8B4-4628-9922-5CCE6FE8492A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519BD402-A8B4-4628-9922-5CCE6FE8492A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
